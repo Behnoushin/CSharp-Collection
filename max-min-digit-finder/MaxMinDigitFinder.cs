@@ -4,11 +4,10 @@ namespace Maximum_and_Minimum_Digit
 {
     public class Program
     {
-        // Find the maximum digit
         private static int MaxDigit(int number)
         {
             int max = int.MinValue;
-            number = Math.Abs(number); // Handle negative numbers
+            number = Math.Abs(number); 
 
             while (number > 0)
             {
@@ -24,7 +23,7 @@ namespace Maximum_and_Minimum_Digit
         private static int MinDigit(int number)
         {
             int min = int.MaxValue;
-            number = Math.Abs(number); // Handle negative numbers
+            number = Math.Abs(number); 
 
             while (number > 0)
             {

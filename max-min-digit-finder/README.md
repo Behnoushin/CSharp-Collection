@@ -37,7 +37,7 @@ dotnet run
 
 Follow the colorful prompts and enter any number, or type exit to quit 🎉
 
-📝 Example
+## 📝 Example
 ```bash
 🌟 Welcome to the Maximum and Minimum Digits App! 🌟
 

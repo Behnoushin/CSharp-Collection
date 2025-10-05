@@ -40,7 +40,7 @@ dotnet run
 ```
 Follow the colorful prompts to choose difficulty, guess numbers, and play again 🎉
 
-📝 Example Gameplay
+## 📝 Example
 
 ```bash
 Hello! Welcome to the Number Guessing Game!

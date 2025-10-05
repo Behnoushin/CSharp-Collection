@@ -39,7 +39,7 @@ dotnet run
 ```
 Follow the prompts and use the menu to manage your contacts 🎉
 
-📝 Example
+## 📝 Example
 ```bash
 Welcome to the simple Phone Book!
 

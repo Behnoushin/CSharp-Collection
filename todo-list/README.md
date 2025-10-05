@@ -38,7 +38,7 @@ dotnet run
 
 Follow the colorful prompts and manage your tasks! 🎉
 
-📝 Example
+## 📝 Example
 ```bash
 ## 📝 Example
 

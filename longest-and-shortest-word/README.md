@@ -37,7 +37,7 @@ dotnet run
 Follow the colorful prompts to convert temperatures or exit 🎉
 
 
-📝 Example
+## 📝 Example
 ``` bash
 Welcome to the Longest & Shortest Word Finder!
 

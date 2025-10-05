@@ -36,7 +36,7 @@ dotnet run
 
 Follow the colorful prompts and enjoy your number checks! 🎉
 
-📝 Example
+## 📝 Example
 
 ```bash
 Odd Or Even Checker 🌟

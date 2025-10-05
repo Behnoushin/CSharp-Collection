@@ -37,7 +37,7 @@ Follow the colorful prompts and choose the type of conversion you want 🎉
 Enter the value to convert and see the result instantly!
 Type 0 to exit the program 💖
 
-📝 Example
+## 📝 Example
 ```bash
 🌟 Welcome to the Ultimate Unit Converter! 🌟
 

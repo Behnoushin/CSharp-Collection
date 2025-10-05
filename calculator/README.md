@@ -36,7 +36,7 @@ dotnet run
 ```
 Follow the colorful prompts, enter numbers and an operator, and enjoy calculating! 🎉
 
-📝 Example
+## 📝 Example
 ```bash
 Enter the first number: 12
 Enter the second number: 4

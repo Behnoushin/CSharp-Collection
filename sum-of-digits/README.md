@@ -34,7 +34,7 @@ dotnet run
 
 Follow the colorful prompts and enter any number, or type exit to quit 🎉
 
-📝 Example
+## 📝 Example
 ```bash
 🌟 Welcome to the Sum of Digits App 🌟
 
